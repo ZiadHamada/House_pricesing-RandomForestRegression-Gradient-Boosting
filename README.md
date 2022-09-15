@@ -1,2 +1,2 @@
-# House_pricesing-LinearRegression-DecisionTree-
+# House_pricesing-RandomForestRegression-Gradient Boosting
 # Data Link: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
